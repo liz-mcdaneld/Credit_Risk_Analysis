@@ -73,11 +73,11 @@ The results for the six machine learning models including their respective balan
 
 ![undersampling](https://user-images.githubusercontent.com/103263248/188501587-7feeee83-e4e6-4bd4-8cc1-a423ad25784c.png)
 
-•	Balanced Accuracy: 0.6241876870888075
+•	Balanced Accuracy: 0.5160196365189295
 
 •	Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 
-•	Recall: High-risk = 0.59
+•	Recall: High-risk = 0.60
 
 •	Recall: Low-risk = 0.43
 
@@ -85,7 +85,7 @@ The results for the six machine learning models including their respective balan
 
 ![combination_over_and_under_sampling](https://user-images.githubusercontent.com/103263248/188501597-c3292497-eaab-42b6-b110-81951e31e2f7.png)
 
-•	Balanced Accuracy: 0.5103601371413837
+•	Balanced Accuracy: 0.6384588112533288
 
 •	Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 
