@@ -71,7 +71,7 @@ The results for the six machine learning models including their respective balan
 
 ### Undersampling
 
-![undersampling](https://user-images.githubusercontent.com/103263248/188501587-7feeee83-e4e6-4bd4-8cc1-a423ad25784c.png)
+![undersampling](https://user-images.githubusercontent.com/103263248/189012437-e8a323d9-8c9a-4511-9101-51b0f072de17.png)
 
 •	Balanced Accuracy: 0.5160196365189295
 
